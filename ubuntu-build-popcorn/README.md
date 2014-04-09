@@ -1,7 +1,7 @@
 Popcorn Time build environment using Ubuntu
 ===========================================
 
-Docker recepie for building latest [Popcorn Time](https://github.com/popcorn-org/popcorn-app "Popcorn Time on GitHub") from GitHub.
+Docker recipe for building latest [Popcorn Time](https://github.com/popcorn-org/popcorn-app "Popcorn Time on GitHub") from GitHub.
 
 Uses official Docker [Ubuntu image](https://index.docker.io/_/ubuntu/ "Official Ubuntu image on Docker index").
 
