@@ -9,6 +9,7 @@ Uses official Docker [Ubuntu image](https://index.docker.io/_/ubuntu/ "Official 
 
 ```bash
 ./build.sh
+```
 
 ## Build Popcorn Time
 
