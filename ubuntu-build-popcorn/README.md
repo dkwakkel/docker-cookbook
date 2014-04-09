@@ -15,6 +15,7 @@ Uses official Docker [Ubuntu image](https://index.docker.io/_/ubuntu/ "Official 
 
 ```bash
 ./run.sh
+```
 
 Resulting binaries will be put in 'bin' folder after the process finishes.
 
